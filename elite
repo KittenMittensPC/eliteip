@@ -498,15 +498,697 @@ http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/26181
 http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/26180
 #EXTINF:-1,US: WWE HD
 http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/26179
+#EXTINF:-1,~ USA TV ~
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,MSNBC (HD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,MSNBC (SD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:-1,MSNBC (SD)*
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
+#EXTINF:-1,Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,Bloomberg TV*
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+#EXTINF:-1,Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:-1,Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1,C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:-1,C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:-1,C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:-1,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1,The Blaze
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:-1,InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:-1,RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,MLB Network*
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+#EXTINF:-1,NBA TV
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+#EXTINF:-1,NBC Golf [NoRoku]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,Cartoon Network
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
+#EXTINF:-1,Comedy Central
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+#EXTINF:-1,FreeForm [NoKodi]
+https://videoserver2.org/live/mHwxt8kU2oOl862qOFE58w/1507031391/654bc354612eeefee71cd611b175730c.m3u8
+#EXTINF:-1,Investigation Discovery
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+#EXTINF:-1,NatGeo Wild [Off]
+http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
+#EXTINF:-1,Science Channel
+http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
+#EXTINF:-1,truTV
+http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
+#EXTINF:-1,Velocity
+http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+#EXTINF:-1,Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Biz TV
+http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
+#EXTINF:-1,California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,Channel 7 [NoRoku]
+http://radio.7chan.org:8000/CH7
+#EXTINF:-1,Classic Arts Showcase
+http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+#EXTINF:-1,The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1,D23 TV
+http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
+#EXTINF:-1,Ditty TV
+http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
+#EXTINF:-1,Evine [Off]
+http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/master.m3u8
+#EXTINF:-1,Home Shopping Network
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+#EXTINF:-1,Hunt Channel
+http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
+#EXTINF:-1,MeTV
+http://video.metv.com/metv/index.m3u8
+#EXTINF:-1,NASA TV Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+#EXTINF:-1,NASA TV Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+#EXTINF:-1,QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:-1,Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,Rev'n
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
+#EXTINF:-1,SupTV
+http://91.134.238.137/live/alpha/index.m3u8
+#EXTINF:-1,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1,Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+#EXTINF:-1,TWiT.TV
+http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
+#EXTINF:-1,Wilderness Channel
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+#EXTINF:-1,Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+#EXTINF:-1,iHeart 80s
+http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
+#EXTINF:-1,Lite FM 106.7
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
+#EXTINF:-1,Nick Radio
+http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+#EXTINF:-1,Z100 New York
+http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
+#EXTINF:-1,360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1,ASD TV
+http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
+#EXTINF:-1,Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1,ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
+#EXTINF:-1,ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
+#EXTINF:-1,Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1,Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1,Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1,Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1,Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1,Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:-1,Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:-1,District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1,District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+#EXTINF:-1,Escambia TV
+http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,The Florida Channel
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+#EXTINF:-1,Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:-1,Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:-1,House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1,KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1,Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:-1,Laurel TV
+https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
+#EXTINF:-1,Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+#EXTINF:-1,Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1,PGCPS
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+#EXTINF:-1,RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,SCCtv
+http://media3.scctv.net/live/scctv_300/playlist.m3u8
+#EXTINF:-1,Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+#EXTINF:-1,Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:-1,Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1,Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:-1,TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1,TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1,TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1,UCTV
+http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
+#EXTINF:-1,UGA TV
+http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
+#EXTINF:-1,White Plains TV
+http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
+#EXTINF:-1,WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8\
+#EXTINF:-1,US - ABC HD
+http://magnum-ott.net:80/philomene/2018/34834
+#EXTINF:-1,US - FOX HD
+http://magnum-ott.net:80/philomene/2018/34815
+#EXTINF:-1,US - NBC HD
+http://magnum-ott.net:80/philomene/2018/34765
+#EXTINF:-1,US - CW HD
+http://magnum-ott.net:80/philomene/2018/34910
+#EXTINF:-1,USA VIP - FOX HD
+http://magnum-ott.net:80/philomene/2018/43645
+#EXTINF:-1,USA VIP - NBC HD
+http://magnum-ott.net:80/philomene/2018/43630
+#EXTINF:-1,USA VIP - CW HD
+http://magnum-ott.net:80/philomene/2018/43656
+#EXTINF:-1,US - MY 9
+http://magnum-ott.net:80/philomene/2018/34811
+#EXTINF:-1,US - HSN
+http://magnum-ott.net:80/philomene/2018/34751
+#EXTINF:-1,US - ION TV
+http://magnum-ott.net:80/philomene/2018/34869
+#EXTINF:-1,US - CBN HD
+http://magnum-ott.net:80/philomene/2018/34827
+#EXTINF:-1,USA VIP - CBN HD
+http://magnum-ott.net:80/philomene/2018/43664
+#EXTINF:-1,USA VIP - KTVU PLUS HD
+http://magnum-ott.net:80/philomene/2018/43589
+#EXTINF:-1,US - TELEMUNDO
+http://magnum-ott.net:80/philomene/2018/34801
+#EXTINF:-1,US - UNIMAS
+http://magnum-ott.net:80/philomene/2018/34800
+#EXTINF:-1,USA VIP - UNIMAS HD
+http://magnum-ott.net:80/philomene/2018/43548
+#EXTINF:-1,US - UNIVISION
+http://magnum-ott.net:80/philomene/2018/34799
+#EXTINF:-1,USA VIP - UNIVISION HD SP
+http://magnum-ott.net:80/philomene/2018/43544
+#EXTINF:-1,USA VIP - GALAVISION HD SP
+http://magnum-ott.net:80/philomene/2018/43569
+#EXTINF:-1,USA VIP - TELEXITOS HD SP
+http://magnum-ott.net:80/philomene/2018/43550
+#EXTINF:-1,US - TBS
+http://magnum-ott.net:80/philomene/2018/34882
+#EXTINF:-1,USA VIP - TBS HD
+http://magnum-ott.net:80/philomene/2018/43611
+#EXTINF:-1,US - TBN TRINITY BROADCASTING NETWORK
+http://magnum-ott.net:80/philomene/2018/34802
+#EXTINF:-1,US - ABC Spark HD
+http://magnum-ott.net:80/philomene/2018/34920
+#EXTINF:-1,US - SYFY HD
+http://magnum-ott.net:80/philomene/2018/34884
+#EXTINF:-1,USA VIP - SYFY HD
+http://magnum-ott.net:80/philomene/2018/43612
+#EXTINF:-1,US - WGN AMERICA
+http://magnum-ott.net:80/philomene/2018/34886
+#EXTINF:-1,US - COZI TV
+http://magnum-ott.net:80/philomene/2018/34913
+#EXTINF:-1,US - USA NETWORK
+http://magnum-ott.net:80/philomene/2018/34870
+#EXTINF:-1,USA VIP - USA NETWORK HD
+http://magnum-ott.net:80/philomene/2018/43602
+#EXTINF:-1,US - AMC HD
+http://magnum-ott.net:80/philomene/2018/34914
+#EXTINF:-1,USA VIP - AMC HD
+http://magnum-ott.net:80/philomene/2018/43543
+#EXTINF:-1,US - FX HD
+http://magnum-ott.net:80/philomene/2018/34907
+#EXTINF:-1,USA VIP - FX HD
+http://magnum-ott.net:80/philomene/2018/43573
+#EXTINF:-1,US - FXM
+http://magnum-ott.net:80/philomene/2018/34906
+#EXTINF:-1,USA VIP - FXM HD
+http://magnum-ott.net:80/philomene/2018/43572
+#EXTINF:-1,US - FXX HD
+http://magnum-ott.net:80/philomene/2018/34904
+#EXTINF:-1,USA VIP - FXX HD
+http://magnum-ott.net:80/philomene/2018/43571
+#EXTINF:-1,USA VIP - FOX LIFE HD
+http://magnum-ott.net:80/philomene/2018/43534
+#EXTINF:-1,US - FYI
+http://magnum-ott.net:80/philomene/2018/34903
+#EXTINF:-1,USA VIP - FYI HD
+http://magnum-ott.net:80/philomene/2018/43570
+#EXTINF:-1,US - WE HD
+http://magnum-ott.net:80/philomene/2018/34888
+#EXTINF:-1,US - WE TV
+http://magnum-ott.net:80/philomene/2018/34887
+#EXTINF:-1,USA VIP - WE TV HD
+http://magnum-ott.net:80/philomene/2018/43521
+#EXTINF:-1,USA VIP - WETV HD
+http://magnum-ott.net:80/philomene/2018/43520
+#EXTINF:-1,USA VIP - CBS NY (WL NY HD)
+http://magnum-ott.net:80/philomene/2018/43519
+#EXTINF:-1,US - TV ONE
+http://magnum-ott.net:80/philomene/2018/34874
+#EXTINF:-1,US - BRAVO HD
+http://magnum-ott.net:80/philomene/2018/34912
+#EXTINF:-1,USA VIP - BRAVO HD
+http://magnum-ott.net:80/philomene/2018/43670
+#EXTINF:-1,US - ID HD
+http://magnum-ott.net:80/philomene/2018/34923
+#EXTINF:-1,US - CRIME & INVESTIGATION HD
+http://magnum-ott.net:80/philomene/2018/34849
+#EXTINF:-1,US - A&E
+http://magnum-ott.net:80/philomene/2018/34922
+#EXTINF:-1,US - A&E HD
+http://magnum-ott.net:80/philomene/2018/34921
+#EXTINF:-1,USA VIP - A&E HD
+http://magnum-ott.net:80/philomene/2018/43594
+#EXTINF:-1,US - E! HD
+http://magnum-ott.net:80/philomene/2018/34895
+#EXTINF:-1,USA VIP - E! HD
+http://magnum-ott.net:80/philomene/2018/43584
+#EXTINF:-1,US - TLC HD
+http://magnum-ott.net:80/philomene/2018/34881
+#EXTINF:-1,US - TLC USA
+http://magnum-ott.net:80/philomene/2018/34880
+#EXTINF:-1,USA VIP - TLC HD
+http://magnum-ott.net:80/philomene/2018/43462
+#EXTINF:-1,US - LIFETIME HD
+http://magnum-ott.net:80/philomene/2018/34891
+#EXTINF:-1,USA VIP - LIFETIME HD
+http://magnum-ott.net:80/philomene/2018/43564
+#EXTINF:-1,US - LMN HD
+http://magnum-ott.net:80/philomene/2018/34890
+#EXTINF:-1,USA VIP - LMN HD
+http://magnum-ott.net:80/philomene/2018/43563
+#EXTINF:-1,US - BET
+http://magnum-ott.net:80/philomene/2018/34917
+#EXTINF:-1,US - BET HD
+http://magnum-ott.net:80/philomene/2018/34916
+#EXTINF:-1,US - BET HER
+http://magnum-ott.net:80/philomene/2018/34915
+#EXTINF:-1,USA VIP - PEOPLE TV HD
+http://magnum-ott.net:80/philomene/2018/43511
+#EXTINF:-1,USA VIP - SUNDANCE HD
+http://magnum-ott.net:80/philomene/2018/43522
+#EXTINF:-1,US - SUNDANCE HD
+http://magnum-ott.net:80/philomene/2018/34803
+#EXTINF:-1,US - FOOD NETWORK HD
+http://magnum-ott.net:80/philomene/2018/34843
+#EXTINF:-1,USA VIP - FOOD NETWORK HD
+http://magnum-ott.net:80/philomene/2018/43581
+#EXTINF:-1,US - COOKING CHANNEL HD
+http://magnum-ott.net:80/philomene/2018/34848
+#EXTINF:-1,USA VIP - COOKING CHANNEL HD
+http://magnum-ott.net:80/philomene/2018/43513
+#EXTINF:-1,USA VIP - EL GOURMET HD
+http://magnum-ott.net:80/philomene/2018/43537
+#EXTINF:-1,US - HGTV FHD
+http://magnum-ott.net:80/philomene/2018/34897
+#EXTINF:-1,US - HGTV HD
+http://magnum-ott.net:80/philomene/2018/34896
+#EXTINF:-1,USA VIP - HGTV HD
+http://magnum-ott.net:80/philomene/2018/43634
+#EXTINF:-1,US - SPIKE/PARAMOUNT HD
+http://magnum-ott.net:80/philomene/2018/34928
+#EXTINF:-1,US - SPIKE/PARAMOUNT
+http://magnum-ott.net:80/philomene/2018/34929
+#EXTINF:-1,USA VIP - TRU TV HD
+http://magnum-ott.net:80/philomene/2018/43606
+#EXTINF:-1,US - TRU TV HD
+http://magnum-ott.net:80/philomene/2018/34878
+#EXTINF:-1,US - OXYGEN HD
+http://magnum-ott.net:80/philomene/2018/34894
+#EXTINF:-1,USA VIP - OXYGEN HD
+http://magnum-ott.net:80/philomene/2018/43558
+#EXTINF:-1,USA VIP - FUSE HD
+http://magnum-ott.net:80/philomene/2018/43575
+#EXTINF:-1,USA VIP - POP HD
+http://magnum-ott.net:80/philomene/2018/43556
+#EXTINF:-1,USA VIP - REVOLT HD
+http://magnum-ott.net:80/philomene/2018/43555
+#EXTINF:-1,US - GSN HD
+http://magnum-ott.net:80/philomene/2018/34902
+#EXTINF:-1,US - OWN
+http://magnum-ott.net:80/philomene/2018/34808
+#EXTINF:-1,US - OWN HD
+http://magnum-ott.net:80/philomene/2018/34807
+#EXTINF:-1,US - OWN HD (OPRAH WINFRY NETWORK)
+http://magnum-ott.net:80/philomene/2018/34806
+#EXTINF:-1,USA VIP - OWN HD
+http://magnum-ott.net:80/philomene/2018/43480
+#EXTINF:-1,US - FUSION HD
+http://magnum-ott.net:80/philomene/2018/34908
+#EXTINF:-1,USA VIP - FUSION HD
+http://magnum-ott.net:80/philomene/2018/43574
+#EXTINF:-1,US - HALL MARK HD
+http://magnum-ott.net:80/philomene/2018/34900
+#EXTINF:-1,US - HALLMARK MOVIES&MYSTERIES HD
+http://magnum-ott.net:80/philomene/2018/34899
+#EXTINF:-1,USA VIP - HALLMARK DRAMA HD
+http://magnum-ott.net:80/philomene/2018/43512
+#EXTINF:-1,USA VIP - HALLMARK HD
+http://magnum-ott.net:80/philomene/2018/43638
+#EXTINF:-1,USA VIP - HALLMARK MOVIE HD
+http://magnum-ott.net:80/philomene/2018/43566
+#EXTINF:-1,US - TNT HD
+http://magnum-ott.net:80/philomene/2018/34879
+#EXTINF:-1,USA VIP - TNT 2 HD
+http://magnum-ott.net:80/philomene/2018/43461
+#EXTINF:-1,USA VIP - TNT HD
+http://magnum-ott.net:80/philomene/2018/43608
+#EXTINF:-1,USA VIP - TNT WEST HD
+http://magnum-ott.net:80/philomene/2018/43460
+#EXTINF:-1,US - TURNER CLASSIC MOVIES
+http://magnum-ott.net:80/philomene/2018/34877
+#EXTINF:-1,US - TCM
+http://magnum-ott.net:80/philomene/2018/34873
+#EXTINF:-1,USA VIP - TCM HD
+http://magnum-ott.net:80/philomene/2018/43587
+#EXTINF:-1,US - PARAMOUNT
+http://magnum-ott.net:80/philomene/2018/34893
+#EXTINF:-1,USA VIP - PARAMOUNT NETWORK HD
+http://magnum-ott.net:80/philomene/2018/43557
+#EXTINF:-1,USA VIP - MGM HD
+http://magnum-ott.net:80/philomene/2018/43621
+#EXTINF:-1,USA VIP - UNIVERSAL HD
+http://magnum-ott.net:80/philomene/2018/43604
+#EXTINF:-1,USA VIP - CINE SONY HD
+http://magnum-ott.net:80/philomene/2018/43540
+#EXTINF:-1,USA VIP - IFC HD
+http://magnum-ott.net:80/philomene/2018/43533
+#EXTINF:-1,US - COMEDY CENTRAL
+http://magnum-ott.net:80/philomene/2018/34925
+#EXTINF:-1,USA VIP - COMEDY CENTRAL HD
+http://magnum-ott.net:80/philomene/2018/43657
+#EXTINF:-1,US - MTV HD
+http://magnum-ott.net:80/philomene/2018/34793
+#EXTINF:-1,US - MTV 2
+http://magnum-ott.net:80/philomene/2018/34794
+#EXTINF:-1,USA VIP - MTV HD
+http://magnum-ott.net:80/philomene/2018/43631
+#EXTINF:-1,US - MTVLIVE HD
+http://magnum-ott.net:80/philomene/2018/34792
+#EXTINF:-1,US - VH1 HD
+http://magnum-ott.net:80/philomene/2018/34889
+#EXTINF:-1,USA VIP - VH1 HD
+http://magnum-ott.net:80/philomene/2018/43601
+#EXTINF:-1,US -  MUSIC CHOISE
+http://magnum-ott.net:80/philomene/2018/57100
+#EXTINF:-1,US - HISTORY HD
+http://magnum-ott.net:80/philomene/2018/34842
+#EXTINF:-1,USA VIP - HISTORY HD
+http://magnum-ott.net:80/philomene/2018/43565
+#EXTINF:-1,US - CMT HD
+http://magnum-ott.net:80/philomene/2018/34911
+#EXTINF:-1,US - H2
+http://magnum-ott.net:80/philomene/2018/34901
+#EXTINF:-1,USA VIP - H2 HD
+http://magnum-ott.net:80/philomene/2018/43639
+#EXTINF:-1,US - VICELAND HD
+http://magnum-ott.net:80/philomene/2018/34791
+#EXTINF:-1,USA VIP - VICELAND HD
+http://magnum-ott.net:80/philomene/2018/43600
+#EXTINF:-1,US - FREEFORM HD
+http://magnum-ott.net:80/philomene/2018/34909
+#EXTINF:-1,USA VIP - FREEFORM HD
+http://magnum-ott.net:80/philomene/2018/43641
+#EXTINF:-1,US - AMERICAN HEROES AND ICONS
+http://magnum-ott.net:80/philomene/2018/34852
+#EXTINF:-1,US - AMERICAN HEROES CHANNEL
+http://magnum-ott.net:80/philomene/2018/34851
+#EXTINF:-1,US - DISCOVERY FAMILY HD
+http://magnum-ott.net:80/philomene/2018/34847
+#EXTINF:-1,US - DISCOVERY HD
+http://magnum-ott.net:80/philomene/2018/34846
+#EXTINF:-1,US - DISCOVERY SCIENCE HD
+http://magnum-ott.net:80/philomene/2018/34845
+#EXTINF:-1,US - DISCOVERY VELOCITY HD
+http://magnum-ott.net:80/philomene/2018/34844
+#EXTINF:-1,US - INVESTIGATION DISCOVERY
+http://magnum-ott.net:80/philomene/2018/34841
+#EXTINF:-1,USA VIP - DISCOVERY FAMILIA SP HD
+http://magnum-ott.net:80/philomene/2018/43496
+#EXTINF:-1,USA VIP - DISCOVERY FAMILY HD
+http://magnum-ott.net:80/philomene/2018/43495
+#EXTINF:-1,USA VIP - DISCOVERY HD
+http://magnum-ott.net:80/philomene/2018/43654
+#EXTINF:-1,USA VIP - DISCOVERY LIFE HD
+http://magnum-ott.net:80/philomene/2018/43494
+#EXTINF:-1,USA VIP - DISCOVERY SP HD
+http://magnum-ott.net:80/philomene/2018/43493
+#EXTINF:-1,USA VIP - DISCOVERY VELOCITY HD
+http://magnum-ott.net:80/philomene/2018/43652
+#EXTINF:-1,US - HEROS & ICONS
+http://magnum-ott.net:80/philomene/2018/34898
+#EXTINF:-1,US - DESTINATION AMERICA
+http://magnum-ott.net:80/philomene/2018/34872
+#EXTINF:-1,US - TV LAND
+http://magnum-ott.net:80/philomene/2018/34876
+#EXTINF:-1,US - TV LAND HD
+http://magnum-ott.net:80/philomene/2018/34875
+#EXTINF:-1,USA VIP - TV LAND HD
+http://magnum-ott.net:80/philomene/2018/43605
+#EXTINF:-1,US - DIY NETWORK HD
+http://magnum-ott.net:80/philomene/2018/34871
+#EXTINF:-1,USA VIP - DIY NETWORK HD
+http://magnum-ott.net:80/philomene/2018/43585
+#EXTINF:-1,US - NAT GEO HD
+http://magnum-ott.net:80/philomene/2018/34840
+#EXTINF:-1,US - NAT GEO USA
+http://magnum-ott.net:80/philomene/2018/34839
+#EXTINF:-1,US - NAT GEO WILD HD
+http://magnum-ott.net:80/philomene/2018/34838
+#EXTINF:-1,US - NAT GEO WILD HD US
+http://magnum-ott.net:80/philomene/2018/34837
+#EXTINF:-1,USA VIP - NAT GEO EAST HD
+http://magnum-ott.net:80/philomene/2018/43561
+#EXTINF:-1,USA VIP - NAT GEO HD
+http://magnum-ott.net:80/philomene/2018/43483
+#EXTINF:-1,USA VIP - NAT GEO MUNDO HD
+http://magnum-ott.net:80/philomene/2018/43529
+#EXTINF:-1,USA VIP - NAT GEO WILD HD
+http://magnum-ott.net:80/philomene/2018/43560
+#EXTINF:-1,US - ANIMAL PLANET HD
+http://magnum-ott.net:80/philomene/2018/34850
+#EXTINF:-1,US - THE TRAVEL CHANNEL HD
+http://magnum-ott.net:80/philomene/2018/34836
+#EXTINF:-1,USA VIP - OUTDOOR HD
+http://magnum-ott.net:80/philomene/2018/43527
+#EXTINF:-1,US - ANTENNA TV
+http://magnum-ott.net:80/philomene/2018/34919
+#EXTINF:-1,US - BBC America HD
+http://magnum-ott.net:80/philomene/2018/34918
+#EXTINF:-1,##### US - NEWS #####
+http://185.132.176.71:80/demo/demo/mpegts
+#EXTINF:-1,USA VIP - THE WEATHER CHANNEL HD
+http://magnum-ott.net:80/philomene/2018/43609
+#EXTINF:-1,US - BLOOMBERG HD
+http://magnum-ott.net:80/philomene/2018/34828
+#EXTINF:-1,US - FOX BUSINESS NETWORK HD
+http://magnum-ott.net:80/philomene/2018/34816
+#EXTINF:-1,USA VIP - FOX BUSINESS NETWORK HD
+http://magnum-ott.net:80/philomene/2018/43646
+#EXTINF:-1,US - MSNBC HD
+http://magnum-ott.net:80/philomene/2018/34812
+#EXTINF:-1,USA VIP - MSNBC HD
+http://magnum-ott.net:80/philomene/2018/43562
+#EXTINF:-1,US - CNBC HD
+http://magnum-ott.net:80/philomene/2018/34823
+#EXTINF:-1,USA VIP - CNBC HD
+http://magnum-ott.net:80/philomene/2018/43539
+#EXTINF:-1,USA VIP - CNN HD
+http://magnum-ott.net:80/philomene/2018/43588
+#EXTINF:-1,US - CNN
+http://magnum-ott.net:80/philomene/2018/34822
+#EXTINF:-1,US - CNN HD
+http://magnum-ott.net:80/philomene/2018/34821
+#EXTINF:-1,US - ABC NEWS HD
+http://magnum-ott.net:80/philomene/2018/34833
+#EXTINF:-1,USA VIP - ABC NEWS HD
+http://magnum-ott.net:80/philomene/2018/43672
+#EXTINF:-1,US - FOX NEWS
+http://magnum-ott.net:80/philomene/2018/34814
+#EXTINF:-1,USA VIP - FOX NEWS HD
+http://magnum-ott.net:80/philomene/2018/43644
+#EXTINF:-1,US - CBN NEWS
+http://magnum-ott.net:80/philomene/2018/34826
+#EXTINF:-1,USA VIP - CBN NEWS HD
+http://magnum-ott.net:80/philomene/2018/43663
+#EXTINF:-1,USA VIP - CBSN HD
+http://magnum-ott.net:80/philomene/2018/43661
+#EXTINF:-1,USA VIP - C-SPAN 1 HD
+http://magnum-ott.net:80/philomene/2018/43668
+#EXTINF:-1,USA VIP - C-SPAN 2 HD
+http://magnum-ott.net:80/philomene/2018/43667
+#EXTINF:-1,USA VIP - C-SPAN 3 HD
+http://magnum-ott.net:80/philomene/2018/43666
+#EXTINF:-1,##### US - KIDS #####
+http://185.132.176.71:80/demo/demo/mpegts
+#EXTINF:-1,USA VIP - BABY TV HD
+http://magnum-ott.net:80/philomene/2018/43509
+#EXTINF:-1,US - BOOMERANG HD
+http://magnum-ott.net:80/philomene/2018/34867
+#EXTINF:-1,USA VIP - BOOMERANG HD
+http://magnum-ott.net:80/philomene/2018/43499
+#EXTINF:-1,US - HBO COMEDY HD
+http://magnum-ott.net:80/philomene/2018/34950
+#EXTINF:-1,US - CARTOON NETWORK
+http://magnum-ott.net:80/philomene/2018/34866
+#EXTINF:-1,USA VIP - CARTOON NETWORK HD
+http://magnum-ott.net:80/philomene/2018/43665
+#EXTINF:-1,US - DISNEY HD
+http://magnum-ott.net:80/philomene/2018/34865
+#EXTINF:-1,US - DISNEY JR. HD
+http://magnum-ott.net:80/philomene/2018/34864
+#EXTINF:-1,US - DISNEY XD
+http://magnum-ott.net:80/philomene/2018/34863
+#EXTINF:-1,US - DISNEY XD HD
+http://magnum-ott.net:80/philomene/2018/34862
+#EXTINF:-1,USA VIP - DISNEY  HD
+http://magnum-ott.net:80/philomene/2018/43651
+#EXTINF:-1,USA VIP - DISNEY CHANNEL HD
+http://magnum-ott.net:80/philomene/2018/43492
+#EXTINF:-1,USA VIP - DISNEY JUNIOR HD
+http://magnum-ott.net:80/philomene/2018/43491
+#EXTINF:-1,USA VIP - DISNEY XD HD
+http://magnum-ott.net:80/philomene/2018/43490
+#EXTINF:-1,US - NICK HD
+http://magnum-ott.net:80/philomene/2018/34861
+#EXTINF:-1,US - NICK JR
+http://magnum-ott.net:80/philomene/2018/34860
+#EXTINF:-1,US - NICK JR. HD
+http://magnum-ott.net:80/philomene/2018/34859
+#EXTINF:-1,US - NICKTOONS
+http://magnum-ott.net:80/philomene/2018/34858
+#EXTINF:-1,USA VIP - Nicktoons HD
+http://magnum-ott.net:80/philomene/2018/43623
+#EXTINF:-1,US - PBS KIDS EAST
+http://magnum-ott.net:80/philomene/2018/34856
+#EXTINF:-1,US - TEEN NICK
+http://magnum-ott.net:80/philomene/2018/34854
+#EXTINF:-1,USA VIP - NICK HD
+http://magnum-ott.net:80/philomene/2018/43625
+#EXTINF:-1,USA VIP - NICK JR HD
+http://magnum-ott.net:80/philomene/2018/43624
+#EXTINF:-1,US - PBS HD
+http://magnum-ott.net:80/philomene/2018/34857
+#EXTINF:-1,USA VIP - PBS HD
+http://magnum-ott.net:80/philomene/2018/43622
+#EXTINF:-1,US - UNIVERSAL KIDS HD
+http://magnum-ott.net:80/philomene/2018/34855
+#EXTINF:-1,USA VIP - UNIVERSAL KIDS HD
+http://magnum-ott.net:80/philomene/2018/43547
+#EXTINF:-1,##### USA Premium #####
+http://magnum-ott.net:80/philomene/2018/43897
+#EXTINF:-1,US - HBO FAMILY
+http://magnum-ott.net:80/philomene/2018/34949
+#EXTINF:-1,US - HBO HD
+http://magnum-ott.net:80/philomene/2018/34948
+#EXTINF:-1,US - HBO HD 1
+http://magnum-ott.net:80/philomene/2018/34947
+#EXTINF:-1,US - HBO HD 2
+http://magnum-ott.net:80/philomene/2018/34946
+#EXTINF:-1,US - HBO SIGNATURE HD
+http://magnum-ott.net:80/philomene/2018/34944
+#EXTINF:-1,US - HBO Zone
+http://magnum-ott.net:80/philomene/2018/34943
+#EXTINF:-1,USA VIP - HBO EAST HD
+http://magnum-ott.net:80/philomene/2018/43485
+#EXTINF:-1,USA VIP - HBO FAMILY HD
+http://magnum-ott.net:80/philomene/2018/43637
+#EXTINF:-1,USA VIP - HBO WEST HD
+http://magnum-ott.net:80/philomene/2018/43636
+#EXTINF:-1,USA VIP - HBO ZONE HD
+http://magnum-ott.net:80/philomene/2018/43635
+#EXTINF:-1,US - CINEMAX ACTION MAX
+http://magnum-ott.net:80/philomene/2018/34942
+#EXTINF:-1,US - CINEMAX HD
+http://magnum-ott.net:80/philomene/2018/34941
+#EXTINF:-1,US - CINEMAX MORE MAX
+http://magnum-ott.net:80/philomene/2018/34940
+#EXTINF:-1,US - CINEMAX MOREMAX HD
+http://magnum-ott.net:80/philomene/2018/34939
+#EXTINF:-1,US - CINEMAX OUTER MAX
+http://magnum-ott.net:80/philomene/2018/34938
+#EXTINF:-1,US - CINEMAX THRILLERMAX HD
+http://magnum-ott.net:80/philomene/2018/34937
+#EXTINF:-1,USA VIP - CINEMAX ACTION MAX HD (NL)
+http://magnum-ott.net:80/philomene/2018/43660
+#EXTINF:-1,USA VIP - CINEMAX EAST HD
+http://magnum-ott.net:80/philomene/2018/43659
+#EXTINF:-1,USA VIP - CINEMAX THRILLER MAX HD
+http://magnum-ott.net:80/philomene/2018/43658
+#EXTINF:-1,USA VIP - CINEMAX WEST HD
+http://magnum-ott.net:80/philomene/2018/43498
+#EXTINF:-1,US - EPIX
+http://magnum-ott.net:80/philomene/2018/34936
+#EXTINF:-1,US - EPIX 2 HD
+http://magnum-ott.net:80/philomene/2018/34935
+#EXTINF:-1,US - EPIX HITS
+http://magnum-ott.net:80/philomene/2018/34934
+#EXTINF:-1,USA VIP - EPIX 3 HD
+http://magnum-ott.net:80/philomene/2018/43489
+#EXTINF:-1,US - SHOWTIME 2
+http://magnum-ott.net:80/philomene/2018/34933
+#EXTINF:-1,US - SHOWTIME EXTREME
+http://magnum-ott.net:80/philomene/2018/34932
+#EXTINF:-1,US - SHOWTIME HD
+http://magnum-ott.net:80/philomene/2018/34931
+#EXTINF:-1,USA VIP - SHOWTIME EAST HD
+http://magnum-ott.net:80/philomene/2018/43619
+#EXTINF:-1,USA VIP - SHOWTIME SHOWCASE HD
+http://magnum-ott.net:80/philomene/2018/43553
+#EXTINF:-1,USA VIP - SHOWTIME WEST HD
+http://magnum-ott.net:80/philomene/2018/43554
+#EXTINF:-1,USA VIP - STARZ EAST HD
+http://magnum-ott.net:80/philomene/2018/43616
+#EXTINF:-1,USA VIP - STAR EDGE  HD
+http://magnum-ott.net:80/philomene/2018/43615
+#EXTINF:-1,US - STARZ COMEDY
+http://magnum-ott.net:80/philomene/2018/34927
+#EXTINF:-1,US - STARZ KIDS FAMILY
+http://magnum-ott.net:80/philomene/2018/34926
+#EXTINF:-1,USA VIP - STARZ ENCORE HD
+http://magnum-ott.net:80/philomene/2018/43552
+#EXTINF:-1,USA VIP - Starz HD
+http://magnum-ott.net:80/philomene/2018/43614
+#EXTINF:-1,USA VIP - STARZ KIDS & FAMILY HD
+http://magnum-ott.net:80/philomene/2018/43613
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8JAnpoj.png" group-title="USA",USA Channel 1
-https://iptvm3ulist.com/m3u/us01_iptvm3ulist_com_180719.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8JAnpoj.png" group-title="USA",USA Channel 2
-https://iptvm3ulist.com/m3u/us02_iptvm3ulist_com_180719.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8JAnpoj.png" group-title="USA",USA Channel 3
-https://iptvm3ulist.com/m3u/us03_iptvm3ulist_com_180719.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8JAnpoj.png" group-title="USA",USA Channel 4
-https://iptvm3ulist.com/m3u/us04_iptvm3ulist_com_180719.m3u
