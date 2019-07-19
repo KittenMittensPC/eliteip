@@ -1,187 +1,663 @@
 #EXTM3U
-
-#EXTINF:-1,USA | Fox Sports Atlanta
-http://142.4.216.228:8000/online/online/2898
-#EXTINF:-1,USA | Fox Sports Cleveland
-http://142.4.216.228:8000/online/online/2897
-#EXTINF:-1,USA | Fox Sports Kansas City
-http://142.4.216.228:8000/online/online/2896
-#EXTINF:-1,USA | Fox Sports Detroit
-http://142.4.216.228:8000/online/online/2895
-#EXTINF:-1,USA | Fox Sports 1
-http://142.4.216.228:8000/online/online/5494
-#EXTINF:-1,USA | Fox Sports 2
-http://142.4.216.228:8000/online/online/5493
-#EXTINF:-1,USA | Fox Soccer Plus HD
-http://142.4.216.228:8000/online/online/6985
-#EXTINF:-1,USA | Fox Sports Arizona
-http://142.4.216.228:8000/online/online/6834
-#EXTINF:-1,USA | Fox Sports Florida
-http://142.4.216.228:8000/online/online/6851
-#EXTINF:-1,USA | Fox Sports Midwest
-http://142.4.216.228:8000/online/online/6844
-#EXTINF:-1,USA | Fox Sports North
-http://142.4.216.228:8000/online/online/6842
-#EXTINF:-1,USA | Fox Sports Ohio ✡
-http://142.4.216.228:8000/online/online/6840
-#EXTINF:-1,USA | Fox Sports Prime Ticket
-http://142.4.216.228:8000/online/online/6850
-#EXTINF:-1,USA | Fox Sports Sun
-http://142.4.216.228:8000/online/online/6847
-#EXTINF:-1,USA | Fox Sports San Diego
-http://142.4.216.228:8000/online/online/6835
-#EXTINF:-1,USA | Fox Sports SouthWest
-http://142.4.216.228:8000/online/online/6849
-#EXTINF:-1,USA | Fox Sports Southeast
-http://142.4.216.228:8000/online/online/6838
-#EXTINF:-1,USA | Fox Sports West
-http://142.4.216.228:8000/online/online/6852
-#EXTINF:-1,USA | Fox Sports Wisconsin
-http://142.4.216.228:8000/online/online/6837
-#EXTINF:-1,USA | Gol TV
-http://142.4.216.228:8000/online/online/7758
-#EXTINF:-1,USA | MLB Network HD
-http://142.4.216.228:8000/online/online/861
-#EXTINF:-1,USA | Tennis Channel ©
-http://142.4.216.228:8000/online/online/854
-#EXTINF:-1,USA | beIN Sports HD ▲
-http://142.4.216.228:8000/online/online/5333
-#EXTINF:-1,USA | A&E HD ©
-http://142.4.216.228:8000/online/online/5520
-#EXTINF:-1,USA | ABC 7 HD
-http://142.4.216.228:8000/online/online/5522
-#EXTINF:-1,USA | AMC HD ©
-http://142.4.216.228:8000/online/online/5521
-#EXTINF:-1,USA | Bein Sports FHD
-http://142.4.216.228:8000/online/online/5519
-#EXTINF:-1,USA | beIN Sports Espanol
-http://142.4.216.228:8000/online/online/5518
-#EXTINF:-1,USA | Boomerang
-http://142.4.216.228:8000/online/online/5517
-#EXTINF:-1,USA | Bravo HD
-http://142.4.216.228:8000/online/online/5516
-#EXTINF:-1,USA | CBS
-http://142.4.216.228:8000/online/online/5514
-#EXTINF:-1,USA | CNBC HD
-http://142.4.216.228:8000/online/online/5511
-#EXTINF:-1,USA | CNN HD
-http://142.4.216.228:8000/online/online/5510
-#EXTINF:-1,USA | Cinemax East HD
-http://142.4.216.228:8000/online/online/5513
-#EXTINF:-1,USA | Cinemax West
-http://142.4.216.228:8000/online/online/5512
-#EXTINF:-1,USA | Cooking Channel
-http://142.4.216.228:8000/online/online/6083
-#EXTINF:-1,USA | DIY Network
-http://142.4.216.228:8000/online/online/5501
-#EXTINF:-1,USA | Destination America
-http://142.4.216.228:8000/online/online/5508
-#EXTINF:-1,USA | Discovery Family HD
-http://142.4.216.228:8000/online/online/5507
-#EXTINF:-1,USA | Discovery HD
-http://142.4.216.228:8000/online/online/5506
-#EXTINF:-1,USA | Discovery ID HD
-http://142.4.216.228:8000/online/online/5505
-#EXTINF:-1,USA | Discovery Science HD
-http://142.4.216.228:8000/online/online/5504
-#EXTINF:-1,USA | Disney Channel HD
-http://142.4.216.228:8000/online/online/5503
-#EXTINF:-1,USA | Disney Junior
-http://142.4.216.228:8000/online/online/5502
-#EXTINF:-1,USA | E!
-http://142.4.216.228:8000/online/online/5500
-#EXTINF:-1,USA | ESPN HD
-http://142.4.216.228:8000/online/online/5498
-#EXTINF:-1,USA | ESPN 2 HD
-http://142.4.216.228:8000/online/online/5497
-#EXTINF:-1,USA | ESPN News
-http://142.4.216.228:8000/online/online/5496
-#EXTINF:-1,USA | FX  HD
-http://142.4.216.228:8000/online/online/5492
-#EXTINF:-1,USA | Food Network HD
-http://142.4.216.228:8000/online/online/5653
-#EXTINF:-1,USA | H2
-http://142.4.216.228:8000/online/online/5491
-#EXTINF:-1,USA | Sundance TV
-http://142.4.216.228:8000/online/online/5481
-#EXTINF:-1,USA | HBO Family ©
-http://142.4.216.228:8000/online/online/5479
-#EXTINF:-1,USA | HBO HD
-http://142.4.216.228:8000/online/online/5478
-#EXTINF:-1,USA | HBO Signature
-http://142.4.216.228:8000/online/online/5477
-#EXTINF:-1,USA | Hallmark Drama
-http://142.4.216.228:8000/online/online/5476
-#EXTINF:-1,USA | Hallmark Channel
-http://142.4.216.228:8000/online/online/5490
-#EXTINF:-1,USA | History Channel
-http://142.4.216.228:8000/online/online/5489
-#EXTINF:-1,USA | Lifetime
-http://142.4.216.228:8000/online/online/5488
-#EXTINF:-1,USA | MLB Network
-http://142.4.216.228:8000/online/online/5475
-#EXTINF:-1,USA | MSNBC
-http://142.4.216.228:8000/online/online/5474
-#EXTINF:-1,USA | MTV
-http://142.4.216.228:8000/online/online/5487
-#EXTINF:-1,USA | NBA TV HD
-http://142.4.216.228:8000/online/online/5473
-#EXTINF:-1,USA | NBC Sports Los Angeles
-http://142.4.216.228:8000/online/online/5472
-#EXTINF:-1,USA | NBC Sports HD
-http://142.4.216.228:8000/online/online/5485
-#EXTINF:-1,USA | NFL Network
-http://142.4.216.228:8000/online/online/5471
-#EXTINF:-1,USA | National Geographic
-http://142.4.216.228:8000/online/online/5486
-#EXTINF:-1,USA | Nick HD ©
-http://142.4.216.228:8000/online/online/5484
-#EXTINF:-1,USA | Nickelodeon Jr
-http://142.4.216.228:8000/online/online/5483
-#EXTINF:-1,USA | Spike HD
-http://142.4.216.228:8000/online/online/5470
-#EXTINF:-1,USA | Starz Comedy
-http://142.4.216.228:8000/online/online/6822
-#EXTINF:-1,USA | SyFy
-http://142.4.216.228:8000/online/online/5469
-#EXTINF:-1,USA | TBS HD
-http://142.4.216.228:8000/online/online/5468
-#EXTINF:-1,USA | TNT HD
-http://142.4.216.228:8000/online/online/5467
-#EXTINF:-1,USA | Velocity Channel
-http://142.4.216.228:8000/online/online/5482
-#EXTINF:-1,USA | WWE HD
-http://142.4.216.228:8000/online/online/10537
-#EXTINF:-1,USA | ESPN Deportes HD ©
-http://142.4.216.228:8000/online/online/12783
-#EXTINF:-1,USA | UFC Network HD
-http://142.4.216.228:8000/online/online/15097
-#EXTINF:-1,USA | UFC Fight Pass HD
-http://142.4.216.228:8000/online/online/15096
-#EXTINF:-1,USA | Starz HD
-http://142.4.216.228:8000/online/online/18139
-#EXTINF:-1,USA | YES Network HD
-http://142.4.216.228:8000/online/online/18064
-#EXTINF:-1,USA | NBC Sports Bay Area
-http://142.4.216.228:8000/online/online/18394
-#EXTINF:-1,USA | NBC Sports Boston
-http://142.4.216.228:8000/online/online/18395
-#EXTINF:-1,USA | NBC Sports California
-http://142.4.216.228:8000/online/online/18396
-#EXTINF:-1,USA | NBC Sports Chicago
-http://142.4.216.228:8000/online/online/18397
-#EXTINF:-1,USA | NBC Sports Network
-http://142.4.216.228:8000/online/online/18398
-#EXTINF:-1,USA | NBC Sports Whashington
-http://142.4.216.228:8000/online/online/18401
-#EXTINF:-1,USA | NBC Sports Philadelphia
-http://142.4.216.228:8000/online/online/18400
-#EXTINF:-1,USA | NBC Sports Northwest
-http://142.4.216.228:8000/online/online/18399
-#EXTINF:-1,USA | NHL Network
-http://142.4.216.228:8000/online/online/18426
-#EXTINF:-1,USA | HGTV
-http://142.4.216.228:8000/online/online/20489
+#EXTINF:-1,Twitch (Faith)
+https://www.twitch.tv/faith
+#EXTINF:-1,A&E FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4960
+#EXTINF:-1,A&E HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14399
+#EXTINF:-1,ABC News US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6364
+#EXTINF:-1,ABC US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4925
+#EXTINF:-1,AFN Prime Pacific US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4933
+#EXTINF:-1,AFN Spectrum HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14396
+#EXTINF:-1,AFN Sports 1 HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14395
+#EXTINF:-1,AFN Sports 2 HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4927
+#EXTINF:-1,AFN Sports HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4928
+#EXTINF:-1,AMC HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4959
+#EXTINF:-1,AMC  US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6363
+#EXTINF:-1,Weather Channel US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4900
+#EXTINF:-1,Action Max FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4869
+#EXTINF:-1,Animal Planet HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14393
+#EXTINF:-1,Animal Planet US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6362
+#EXTINF:-1,beIN Sports FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13759
+#EXTINF:-1,beiN Sports HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4902
+#EXTINF:-1,BBC America HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14392
+#EXTINF:-1,BTN Sport US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4884
+#EXTINF:-1,BYU TV HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4910
+#EXTINF:-1,Bet FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13764
+#EXTINF:-1,Bet HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4958
+#EXTINF:-1,Big Ten US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6361
+#EXTINF:-1,Bloomberg FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4940
+#EXTINF:-1,Bloomberg HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6360
+#EXTINF:-1,Bravo HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4883
+#EXTINF:-1,C-Span 1 US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14391
+#EXTINF:-1,C-Span 2 US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14390
+#EXTINF:-1,C-Span 3 US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14389
+#EXTINF:-1,CBN US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4920
+#EXTINF:-1,CBS FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13751
+#EXTINF:-1,CBS HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6348
+#EXTINF:-1,CBS Sports Network HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14385
+#EXTINF:-1,CBS US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4885
+#EXTINF:-1,CBSN  HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6342
+#EXTINF:-1,CBSN US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4939
+#EXTINF:-1,CNBC HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4956
+#EXTINF:-1,CNN HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4919
+#EXTINF:-1,CNN News FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13750
+#EXTINF:-1,CNN News HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14377
+#EXTINF:-1,CNN US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6359
+#EXTINF:-1,CW Central US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14401
+#EXTINF:-1,CW US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4955
+#EXTINF:-1,Cartoon Network FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4886
+#EXTINF:-1,Cartoon Network HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14387
+#EXTINF:-1,CineMax Action HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14382
+#EXTINF:-1,CineMax East US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14380
+#EXTINF:-1,CineMax MoreMax US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14378
+#EXTINF:-1,Cinemax 5 Starmax US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4911
+#EXTINF:-1,CMT HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14383
+#EXTINF:-1,Cinemax East FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4912
+#EXTINF:-1,Cinemax FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4914
+#EXTINF:-1,Cinemax More HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14379
+#EXTINF:-1,Cinemax Moremax FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4913
+#EXTINF:-1,Cinemax US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6693
+#EXTINF:-1,Comedy Central FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14376
+#EXTINF:-1,Comedy Central HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13823
+#EXTINF:-1,Comedy Central US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4882
+#EXTINF:-1,Crime and Investigation US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4879
+#EXTINF:-1,Destination America FHD USA
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/17640
+#EXTINF:-1,DW US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14366
+#EXTINF:-1,Discovery Channel HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14373
+#EXTINF:-1,Discovery Channel US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/16988
+#EXTINF:-1,Discovery HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14372
+#EXTINF:-1,Discovery ID FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4918
+#EXTINF:-1,Discovery Science US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4887
+#EXTINF:-1,Discovery Velocity FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4877
+#EXTINF:-1,Discovery Velocity US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14371
+#EXTINF:-1,Disney Channel FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14370
+#EXTINF:-1,Disney Channel HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14369
+#EXTINF:-1,Disney XD FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14368
+#EXTINF:-1,Disney XD HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14367
+#EXTINF:-1,Diy Network HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/11373
+#EXTINF:-1,E! HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14365
+#EXTINF:-1,E! Network US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4951
+#EXTINF:-1,ESPN 1 US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14405
+#EXTINF:-1,ESPN 2 FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13749
+#EXTINF:-1,ESPN 2 HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4936
+#EXTINF:-1,ESPN 3 US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6708
+#EXTINF:-1,ESPN HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14363
+#EXTINF:-1,ESPN News HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4935
+#EXTINF:-1,ESPN Plus US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6707
+#EXTINF:-1,ESPN U US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/33498
+#EXTINF:-1,ESPN US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4937
+#EXTINF:-1,El Rey Network FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13758
+#EXTINF:-1,El Rey Network HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14364
+#EXTINF:-1,Fox Sports HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14562
+#EXTINF:-1,Fox Sports 1 US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/63735
+#EXTINF:-1,Fox Sports 1 FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/137256
+#EXTINF:-1,Fox Sports 1 HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/494720
+#EXTINF:-1,Fox Sports 2 US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/63365
+#EXTINF:-1,Fox Sports 2 HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/494259
+#EXTINF:-1,FOX Soccer Plus HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14408
+#EXTINF:-1,FX FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13763
+#EXTINF:-1,FX HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4942
+#EXTINF:-1,FXX FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13756
+#EXTINF:-1,FXX HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14353
+#EXTINF:-1,Fashion One HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14362
+#EXTINF:-1,Fight Network FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13748
+#EXTINF:-1,Fight Sport US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14361
+#EXTINF:-1,Fine Living US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14360
+#EXTINF:-1,Food Network HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14359
+#EXTINF:-1,Food Network US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4949
+#EXTINF:-1,Fox FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13757
+#EXTINF:-1,Fox HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4948
+#EXTINF:-1,Fox News FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14358
+#EXTINF:-1,Fox News HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14357
+#EXTINF:-1,Fox News US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4943
+#EXTINF:-1,Fox Sports 506 FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4944
+#EXTINF:-1,Fox Sports North HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14355
+#EXTINF:-1,Free Form US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4950
+#EXTINF:-1,Global BC US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14352
+#EXTINF:-1,Golf HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6340
+#EXTINF:-1,H2 US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4888
+#EXTINF:-1,HBO Comedy FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4921
+#EXTINF:-1,HBO Comedy HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13762
+#EXTINF:-1,HBO Est FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13742
+#EXTINF:-1,HBO FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14411
+#EXTINF:-1,HBO Family FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13741
+#EXTINF:-1,HBO HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4923
+#EXTINF:-1,HBO Signature FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13761
+#EXTINF:-1,HBO Signature HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6343
+#EXTINF:-1,HBO US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14350
+#EXTINF:-1,HBO Zone US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4922
+#EXTINF:-1,HGTV HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14348
+#EXTINF:-1,HGTV US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/10218
+#EXTINF:-1,HIFI HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4890
+#EXTINF:-1,Hallmark FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4889
+#EXTINF:-1,Hallmark Drama HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/648287
+#EXTINF:-1,Hallmark Movies & Mysteries FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13746
+#EXTINF:-1,History Channel FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4880
+#EXTINF:-1,History FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13754
+#EXTINF:-1,History HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14346
+#EXTINF:-1,History US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14347
+#EXTINF:-1,ID HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14345
+#EXTINF:-1,IFC FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13739
+#EXTINF:-1,Lifetime HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14343
+#EXTINF:-1,MLB Live US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4867
+#EXTINF:-1,MLB Network HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14402
+#EXTINF:-1,MLB Network US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4868
+#EXTINF:-1,MSNBC FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13738
+#EXTINF:-1,MSNBC HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14398
+#EXTINF:-1,MSNBC US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4904
+#EXTINF:-1,MTV FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14342
+#EXTINF:-1,MTV HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14341
+#EXTINF:-1,MTV Rocks US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14340
+#EXTINF:-1,NASA US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4941
+#EXTINF:-1,NBA HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14338
+#EXTINF:-1,NBA TV HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6355
+#EXTINF:-1,NBC Golf FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13753
+#EXTINF:-1,NBC Golf HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4953
+#EXTINF:-1,NBC Golf US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14410
+#EXTINF:-1,NBC News HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14337
+#EXTINF:-1,NBC SN HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14336
+#EXTINF:-1,NBC Sport FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4952
+#EXTINF:-1,NBC Sports Network HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14403
+#EXTINF:-1,NBC US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4954
+#EXTINF:-1,NBCSN HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14330
+#EXTINF:-1,NFL  HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6345
+#EXTINF:-1,NFL HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4917
+#EXTINF:-1,NFL Network HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14329
+#EXTINF:-1,NFL Now HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14328
+#EXTINF:-1,NHL Network FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4875
+#EXTINF:-1,NHL Network HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14409
+#EXTINF:-1,Nat Geo Wild FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13745
+#EXTINF:-1,National Geographic FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4881
+#EXTINF:-1,National Geographic HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14339
+#EXTINF:-1,Nick FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13744
+#EXTINF:-1,Nick HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14327
+#EXTINF:-1,OWN FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13760
+#EXTINF:-1,OWN HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/11255
+#EXTINF:-1,OWN US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14326
+#EXTINF:-1,Outdoor Channel HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14325
+#EXTINF:-1,PAC Arizona HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4866
+#EXTINF:-1,PAC Los Angeles FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4864
+#EXTINF:-1,PAC Oregon FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4863
+#EXTINF:-1,PAC Washington FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4862
+#EXTINF:-1,PAC-12 Los Angeles FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13737
+#EXTINF:-1,PAC-12 Oregon FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13752
+#EXTINF:-1,PAC-12 Washington FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13736
+#EXTINF:-1,PAC12 Bay Area HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4865
+#EXTINF:-1,Pick TV US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14323
+#EXTINF:-1,RT Documentary HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4906
+#EXTINF:-1,Showtime FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13735
+#EXTINF:-1,Showtime Showcase HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4891
+#EXTINF:-1,Showtime US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4926
+#EXTINF:-1,Showtime West US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14321
+#EXTINF:-1,Smile Of A Child US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14320
+#EXTINF:-1,Spike FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4892
+#EXTINF:-1,Spike HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14319
+#EXTINF:-1,Sportnet Ontario US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14406
+#EXTINF:-1,Sports Net 360 FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4915
+#EXTINF:-1,Sports Net One HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4916
+#EXTINF:-1,Sports Net One HD. US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4894
+#EXTINF:-1,Sports Net West HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4861
+#EXTINF:-1,Sportsnet East HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14318
+#EXTINF:-1,Sports net Ontario HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14317
+#EXTINF:-1,Sportsnet 360 HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14388
+#EXTINF:-1,Starz Cinema US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4898
+#EXTINF:-1,Starz Comedy US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4899
+#EXTINF:-1,Starz East US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4895
+#EXTINF:-1,Starz Edge US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4897
+#EXTINF:-1,Starz Encore US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4896
+#EXTINF:-1,Starz West US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4907
+#EXTINF:-1,TBS FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6341
+#EXTINF:-1,TBS US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4908
+#EXTINF:-1,TLC Discovery US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6747
+#EXTINF:-1,TLC FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/13734
+#EXTINF:-1,TLC HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14397
+#EXTINF:-1,TLC US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4924
+#EXTINF:-1,TNT HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6354
+#EXTINF:-1,TNT US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4876
+#EXTINF:-1,TSN 1 SD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6353
+#EXTINF:-1,TSN 2 HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6352
+#EXTINF:-1,TSN 3 HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6351
+#EXTINF:-1,TSN 5 HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6349
+#EXTINF:-1,Tru TV US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/629081
+#EXTINF:-1,USA Network HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/4901
+#EXTINF:-1,VH1 HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/11254
+#EXTINF:-1,VH1 US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6753
+#EXTINF:-1,WWE HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14404
+#EXTINF:-1,WWE US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/6347
+#EXTINF:-1,UFC Fight Pass (Live Events Only) US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/16617
+#EXTINF:-1,Lifetime Movies HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/17513
+#EXTINF:-1,SEC Network US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/32382
+#EXTINF:-1,Travel Channel US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/32381
+#EXTINF:-1,NESN HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/34415
+#EXTINF:-1,Reelz Channel US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/51014
+#EXTINF:-1,Oxygen HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/51015
+#EXTINF:-1,GSN HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/14351
+#EXTINF:-1,NFL RedZone HD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/53157
+#EXTINF:-1,Tennis FHD US
+http://mytv.fun:8080/iueiwl3h0h/iptv1234/7084
+#EXTINF:-1,~ USA TV ~
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,MSNBC (HD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,MSNBC (SD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:-1,MSNBC (SD)*
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
+#EXTINF:-1,Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,Bloomberg TV*
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+#EXTINF:-1,Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:-1,Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1,C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:-1,C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:-1,C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:-1,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1,The Blaze
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:-1,InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:-1,RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,MLB Network*
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+#EXTINF:-1,NBA TV
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+#EXTINF:-1,NBC Golf [NoRoku]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,Cartoon Network
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
+#EXTINF:-1,Comedy Central
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+#EXTINF:-1,FreeForm [NoKodi]
+https://videoserver2.org/live/mHwxt8kU2oOl862qOFE58w/1507031391/654bc354612eeefee71cd611b175730c.m3u8
+#EXTINF:-1,Investigation Discovery
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+#EXTINF:-1,NatGeo Wild [Off]
+http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
+#EXTINF:-1,Science Channel
+http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
+#EXTINF:-1,truTV
+http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
+#EXTINF:-1,Velocity
+http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+#EXTINF:-1,Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Biz TV
+http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
+#EXTINF:-1,California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,Channel 7 [NoRoku]
+http://radio.7chan.org:8000/CH7
+#EXTINF:-1,Classic Arts Showcase
+http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+#EXTINF:-1,The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1,D23 TV
+http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
+#EXTINF:-1,Ditty TV
+http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
+#EXTINF:-1,Evine [Off]
+http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/master.m3u8
+#EXTINF:-1,Home Shopping Network
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+#EXTINF:-1,Hunt Channel
+http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
+#EXTINF:-1,MeTV
+http://video.metv.com/metv/index.m3u8
+#EXTINF:-1,NASA TV Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+#EXTINF:-1,NASA TV Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+#EXTINF:-1,QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:-1,Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,Rev'n
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
+#EXTINF:-1,SupTV
+http://91.134.238.137/live/alpha/index.m3u8
+#EXTINF:-1,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1,Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+#EXTINF:-1,TWiT.TV
+http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
+#EXTINF:-1,Wilderness Channel
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+#EXTINF:-1,Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+#EXTINF:-1,iHeart 80s
+http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
+#EXTINF:-1,Lite FM 106.7
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
+#EXTINF:-1,Nick Radio
+http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+#EXTINF:-1,Z100 New York
+http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
+#EXTINF:-1,360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1,ASD TV
+http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
+#EXTINF:-1,Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1,ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
+#EXTINF:-1,ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
+#EXTINF:-1,Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1,Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1,Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1,Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1,Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1,Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:-1,Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:-1,District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1,District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+#EXTINF:-1,Escambia TV
+http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,The Florida Channel
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+#EXTINF:-1,Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:-1,Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:-1,House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1,KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1,Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:-1,Laurel TV
+https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
+#EXTINF:-1,Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+#EXTINF:-1,Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1,PGCPS
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+#EXTINF:-1,RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,SCCtv
+http://media3.scctv.net/live/scctv_300/playlist.m3u8
+#EXTINF:-1,Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+#EXTINF:-1,Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:-1,Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1,Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:-1,TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1,TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1,TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1,UCTV
+http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
+#EXTINF:-1,UGA TV
+http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
+#EXTINF:-1,White Plains TV
+http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
+#EXTINF:-1,WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
 #EXTINF:-1,US: A&E HD
 http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/26358
 #EXTINF:-1,US: ABC News FHD
@@ -498,1061 +974,186 @@ http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/26181
 http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/26180
 #EXTINF:-1,US: WWE HD
 http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/26179
-#EXTINF:-1,~ USA TV ~
-#EXTINF:-1,CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1,MSNBC (HD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:-1,MSNBC (SD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
-#EXTINF:-1,MSNBC (SD)*
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
-#EXTINF:-1,Bloomberg TV
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1,Bloomberg TV*
-http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
-#EXTINF:-1,Fox News Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
-#EXTINF:-1,Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1,C-SPAN
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
-#EXTINF:-1,C-SPAN 2
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
-#EXTINF:-1,C-SPAN 3
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
-#EXTINF:-1,Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1,Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1,Free Speech TV
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1,The Blaze
-https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
-#EXTINF:-1,InfoWars
-http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
-#EXTINF:-1,RT America
-https://secure-streams.akamaized.net/rt-usa/index.m3u8
-#EXTINF:-1,MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1,MLB Network*
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
-#EXTINF:-1,NBA TV
-http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
-#EXTINF:-1,NBC Golf [NoRoku]
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,NFL Now
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:-1,Cartoon Network
-http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
-#EXTINF:-1,Comedy Central
-http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
-#EXTINF:-1,FreeForm [NoKodi]
-https://videoserver2.org/live/mHwxt8kU2oOl862qOFE58w/1507031391/654bc354612eeefee71cd611b175730c.m3u8
-#EXTINF:-1,Investigation Discovery
-http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
-#EXTINF:-1,NatGeo Wild [Off]
-http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
-#EXTINF:-1,Science Channel
-http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
-#EXTINF:-1,truTV
-http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
-#EXTINF:-1,Velocity
-http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
-#EXTINF:-1,Animal Planet
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Biz TV
-http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
-#EXTINF:-1,California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1,Channel 7 [NoRoku]
-http://radio.7chan.org:8000/CH7
-#EXTINF:-1,Classic Arts Showcase
-http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
-#EXTINF:-1,The Country Network
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-#EXTINF:-1,D23 TV
-http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
-#EXTINF:-1,Ditty TV
-http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
-#EXTINF:-1,Evine [Off]
-http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/master.m3u8
-#EXTINF:-1,Home Shopping Network
-http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
-#EXTINF:-1,Hunt Channel
-http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
-#EXTINF:-1,MeTV
-http://video.metv.com/metv/index.m3u8
-#EXTINF:-1,NASA TV Public
-http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
-#EXTINF:-1,NASA TV Media
-https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
-#EXTINF:-1,QVC
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-#EXTINF:-1,Red Bull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-#EXTINF:-1,Rev'n
-http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
-#EXTINF:-1,SupTV
-http://91.134.238.137/live/alpha/index.m3u8
-#EXTINF:-1,TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:-1,Tuff TV
-http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
-#EXTINF:-1,TWiT.TV
-http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
-#EXTINF:-1,Wilderness Channel
-http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
-#EXTINF:-1,Yes TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
-#EXTINF:-1,iHeart 80s
-http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
-#EXTINF:-1,Lite FM 106.7
-http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
-#EXTINF:-1,Nick Radio
-http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
-#EXTINF:-1,Z100 New York
-http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
-#EXTINF:-1,360 North
-http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
-#EXTINF:-1,ASD TV
-http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
-#EXTINF:-1,Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1,ATXN
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
-#EXTINF:-1,ATXN 2
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
-#EXTINF:-1,Beach TV - 30A
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1,Beach TV - Panama City
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1,Beach TV - Pawleys Island
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1,Bowie TV
-http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-#EXTINF:-1,Buffalo TV
-http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
-#EXTINF:-1,Capital City Connection
-http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
-#EXTINF:-1,Daytona Beach TV
-http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
-#EXTINF:-1,District of Columbia Network
-http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1,District Knowledge Network
-http://video.oct.dc.gov/out/u/96_4.m3u8
-#EXTINF:-1,Escambia TV
-http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1,The Florida Channel
-http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
-#EXTINF:-1,Garland TV
-http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
-#EXTINF:-1,Greenbelt TV
-http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
-#EXTINF:-1,House of Representatives
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
-#EXTINF:-1,KBVR TV
-http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
-#EXTINF:-1,Key TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1,Kool TV
-http://173.199.158.79:1935/roku/myStream/playlist.m3u8
-#EXTINF:-1,Laurel TV
-https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
-#EXTINF:-1,Miami TV
-http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
-#EXTINF:-1,Orange TV
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
-#EXTINF:-1,PGCPS
-http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
-#EXTINF:-1,RyeTV
-http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1,SCCtv
-http://media3.scctv.net/live/scctv_300/playlist.m3u8
-#EXTINF:-1,Seattle Channel
-https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
-#EXTINF:-1,Seminole TV
-http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
-#EXTINF:-1,Southeastern Channel
-http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1,Temple TV
-http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
-#EXTINF:-1,TSTV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1,TVW
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
-#EXTINF:-1,TVW-2
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
-#EXTINF:-1,UCTV
-http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
-#EXTINF:-1,UGA TV
-http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
-#EXTINF:-1,White Plains TV
-http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
-#EXTINF:-1,WHOH TV
-http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8\
+#EXTINF:-1,USA | Fox Sports Atlanta
+http://142.4.216.228:8000/online/online/2898
+#EXTINF:-1,USA | Fox Sports Cleveland
+http://142.4.216.228:8000/online/online/2897
+#EXTINF:-1,USA | Fox Sports Kansas City
+http://142.4.216.228:8000/online/online/2896
+#EXTINF:-1,USA | Fox Sports Detroit
+http://142.4.216.228:8000/online/online/2895
+#EXTINF:-1,USA | Fox Sports 1
+http://142.4.216.228:8000/online/online/5494
+#EXTINF:-1,USA | Fox Sports 2
+http://142.4.216.228:8000/online/online/5493
+#EXTINF:-1,USA | Fox Soccer Plus HD
+http://142.4.216.228:8000/online/online/6985
+#EXTINF:-1,USA | Fox Sports Arizona
+http://142.4.216.228:8000/online/online/6834
+#EXTINF:-1,USA | Fox Sports Florida
+http://142.4.216.228:8000/online/online/6851
+#EXTINF:-1,USA | Fox Sports Midwest
+http://142.4.216.228:8000/online/online/6844
+#EXTINF:-1,USA | Fox Sports North
+http://142.4.216.228:8000/online/online/6842
+#EXTINF:-1,USA | Fox Sports Ohio ✡
+http://142.4.216.228:8000/online/online/6840
+#EXTINF:-1,USA | Fox Sports Prime Ticket
+http://142.4.216.228:8000/online/online/6850
+#EXTINF:-1,USA | Fox Sports Sun
+http://142.4.216.228:8000/online/online/6847
+#EXTINF:-1,USA | Fox Sports San Diego
+http://142.4.216.228:8000/online/online/6835
+#EXTINF:-1,USA | Fox Sports SouthWest
+http://142.4.216.228:8000/online/online/6849
+#EXTINF:-1,USA | Fox Sports Southeast
+http://142.4.216.228:8000/online/online/6838
+#EXTINF:-1,USA | Fox Sports West
+http://142.4.216.228:8000/online/online/6852
+#EXTINF:-1,USA | Fox Sports Wisconsin
+http://142.4.216.228:8000/online/online/6837
+#EXTINF:-1,USA | Gol TV
+http://142.4.216.228:8000/online/online/7758
+#EXTINF:-1,USA | MLB Network HD
+http://142.4.216.228:8000/online/online/861
+#EXTINF:-1,USA | Tennis Channel ©
+http://142.4.216.228:8000/online/online/854
+#EXTINF:-1,USA | beIN Sports HD ▲
+http://142.4.216.228:8000/online/online/5333
+#EXTINF:-1,USA | A&E HD ©
+http://142.4.216.228:8000/online/online/5520
+#EXTINF:-1,USA | ABC 7 HD
+http://142.4.216.228:8000/online/online/5522
+#EXTINF:-1,USA | AMC HD ©
+http://142.4.216.228:8000/online/online/5521
+#EXTINF:-1,USA | Bein Sports FHD
+http://142.4.216.228:8000/online/online/5519
+#EXTINF:-1,USA | beIN Sports Espanol
+http://142.4.216.228:8000/online/online/5518
+#EXTINF:-1,USA | Boomerang
+http://142.4.216.228:8000/online/online/5517
+#EXTINF:-1,USA | Bravo HD
+http://142.4.216.228:8000/online/online/5516
+#EXTINF:-1,USA | CBS
+http://142.4.216.228:8000/online/online/5514
+#EXTINF:-1,USA | CNBC HD
+http://142.4.216.228:8000/online/online/5511
+#EXTINF:-1,USA | CNN HD
+http://142.4.216.228:8000/online/online/5510
+#EXTINF:-1,USA | Cinemax East HD
+http://142.4.216.228:8000/online/online/5513
+#EXTINF:-1,USA | Cinemax West
+http://142.4.216.228:8000/online/online/5512
+#EXTINF:-1,USA | Cooking Channel
+http://142.4.216.228:8000/online/online/6083
+#EXTINF:-1,USA | DIY Network
+http://142.4.216.228:8000/online/online/5501
+#EXTINF:-1,USA | Destination America
+http://142.4.216.228:8000/online/online/5508
+#EXTINF:-1,USA | Discovery Family HD
+http://142.4.216.228:8000/online/online/5507
+#EXTINF:-1,USA | Discovery HD
+http://142.4.216.228:8000/online/online/5506
+#EXTINF:-1,USA | Discovery ID HD
+http://142.4.216.228:8000/online/online/5505
+#EXTINF:-1,USA | Discovery Science HD
+http://142.4.216.228:8000/online/online/5504
+#EXTINF:-1,USA | Disney Channel HD
+http://142.4.216.228:8000/online/online/5503
+#EXTINF:-1,USA | Disney Junior
+http://142.4.216.228:8000/online/online/5502
+#EXTINF:-1,USA | E!
+http://142.4.216.228:8000/online/online/5500
+#EXTINF:-1,USA | ESPN HD
+http://142.4.216.228:8000/online/online/5498
+#EXTINF:-1,USA | ESPN 2 HD
+http://142.4.216.228:8000/online/online/5497
+#EXTINF:-1,USA | ESPN News
+http://142.4.216.228:8000/online/online/5496
+#EXTINF:-1,USA | FX  HD
+http://142.4.216.228:8000/online/online/5492
+#EXTINF:-1,USA | Food Network HD
+http://142.4.216.228:8000/online/online/5653
+#EXTINF:-1,USA | H2
+http://142.4.216.228:8000/online/online/5491
+#EXTINF:-1,USA | Sundance TV
+http://142.4.216.228:8000/online/online/5481
+#EXTINF:-1,USA | HBO Family ©
+http://142.4.216.228:8000/online/online/5479
+#EXTINF:-1,USA | HBO HD
+http://142.4.216.228:8000/online/online/5478
+#EXTINF:-1,USA | HBO Signature
+http://142.4.216.228:8000/online/online/5477
+#EXTINF:-1,USA | Hallmark Drama
+http://142.4.216.228:8000/online/online/5476
+#EXTINF:-1,USA | Hallmark Channel
+http://142.4.216.228:8000/online/online/5490
+#EXTINF:-1,USA | History Channel
+http://142.4.216.228:8000/online/online/5489
+#EXTINF:-1,USA | Lifetime
+http://142.4.216.228:8000/online/online/5488
+#EXTINF:-1,USA | MLB Network
+http://142.4.216.228:8000/online/online/5475
+#EXTINF:-1,USA | MSNBC
+http://142.4.216.228:8000/online/online/5474
+#EXTINF:-1,USA | MTV
+http://142.4.216.228:8000/online/online/5487
+#EXTINF:-1,USA | NBA TV HD
+http://142.4.216.228:8000/online/online/5473
+#EXTINF:-1,USA | NBC Sports Los Angeles
+http://142.4.216.228:8000/online/online/5472
+#EXTINF:-1,USA | NBC Sports HD
+http://142.4.216.228:8000/online/online/5485
+#EXTINF:-1,USA | NFL Network
+http://142.4.216.228:8000/online/online/5471
+#EXTINF:-1,USA | National Geographic
+http://142.4.216.228:8000/online/online/5486
+#EXTINF:-1,USA | Nick HD ©
+http://142.4.216.228:8000/online/online/5484
+#EXTINF:-1,USA | Nickelodeon Jr
+http://142.4.216.228:8000/online/online/5483
+#EXTINF:-1,USA | Spike HD
+http://142.4.216.228:8000/online/online/5470
+#EXTINF:-1,USA | Starz Comedy
+http://142.4.216.228:8000/online/online/6822
+#EXTINF:-1,USA | SyFy
+http://142.4.216.228:8000/online/online/5469
+#EXTINF:-1,USA | TBS HD
+http://142.4.216.228:8000/online/online/5468
+#EXTINF:-1,USA | TNT HD
+http://142.4.216.228:8000/online/online/5467
+#EXTINF:-1,USA | Velocity Channel
+http://142.4.216.228:8000/online/online/5482
+#EXTINF:-1,USA | WWE HD
+http://142.4.216.228:8000/online/online/10537
+#EXTINF:-1,USA | ESPN Deportes HD ©
+http://142.4.216.228:8000/online/online/12783
+#EXTINF:-1,USA | UFC Network HD
+http://142.4.216.228:8000/online/online/15097
+#EXTINF:-1,USA | UFC Fight Pass HD
+http://142.4.216.228:8000/online/online/15096
+#EXTINF:-1,USA | Starz HD
+http://142.4.216.228:8000/online/online/18139
+#EXTINF:-1,USA | YES Network HD
+http://142.4.216.228:8000/online/online/18064
+#EXTINF:-1,USA | NBC Sports Bay Area
+http://142.4.216.228:8000/online/online/18394
+#EXTINF:-1,USA | NBC Sports Boston
+http://142.4.216.228:8000/online/online/18395
+#EXTINF:-1,USA | NBC Sports California
+http://142.4.216.228:8000/online/online/18396
+#EXTINF:-1,USA | NBC Sports Chicago
+http://142.4.216.228:8000/online/online/18397
+#EXTINF:-1,USA | NBC Sports Network
+http://142.4.216.228:8000/online/online/18398
+#EXTINF:-1,USA | NBC Sports Whashington
+http://142.4.216.228:8000/online/online/18401
+#EXTINF:-1,USA | NBC Sports Philadelphia
+http://142.4.216.228:8000/online/online/18400
+#EXTINF:-1,USA | NBC Sports Northwest
+http://142.4.216.228:8000/online/online/18399
+#EXTINF:-1,USA | NHL Network
+http://142.4.216.228:8000/online/online/18426
+#EXTINF:-1,USA | HGTV
+http://142.4.216.228:8000/online/online/20489
 
-#EXTINF:-1,------▼|US|-UNITED.STATES.CHANNELS-|US|▼------
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2513.m3u8
-#EXTINF:-1,|US| ABC NEWS HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2442.m3u8
-#EXTINF:-1,|US| FOX NEWS HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2446.m3u8
-#EXTINF:-1,|US| FOX BUSINESS HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/22704.m3u8
-#EXTINF:-1,|US| FOX BUSINESS NETWORK HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/22705.m3u8
-#EXTINF:-1,|US| BLOOMBERG HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2444.m3u8
-#EXTINF:-1,|US| CNN HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2445.m3u8
-#EXTINF:-1,▀▄ USA ▀▄▀▄▀▄  NBC  ▄▀▄▀▄▀
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12220.m3u8
-#EXTINF:-1,|US| NBC News HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3037.m3u8
-#EXTINF:-1,|US| NBC (NY) FHD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2503.m3u8
-#EXTINF:-1,|US| NBC (Charlotte) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12178.m3u8
-#EXTINF:-1,|US| NBC (NY) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12183.m3u8
-#EXTINF:-1,|US| NBC 10 (Boston) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12175.m3u8
-#EXTINF:-1,|US| NBC 10 (Rochester) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12173.m3u8
-#EXTINF:-1,|US| NBC 11 ( Pittsburgh ) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12172.m3u8
-#EXTINF:-1,|US| NBC 11 (Atlanta) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12181.m3u8
-#EXTINF:-1,|US| NBC 11 (Baltimore MD) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12171.m3u8
-#EXTINF:-1,|US| NBC 11 (Baltimore) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12170.m3u8
-#EXTINF:-1,|US| NBC 11 (Minneapolis) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12169.m3u8
-#EXTINF:-1,|US| NBC 11 (Minnesota) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12168.m3u8
-#EXTINF:-1,|US| NBC 12 (Milwaukee) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12167.m3u8
-#EXTINF:-1,|US| NBC 12 (Phoenix) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12166.m3u8
-#EXTINF:-1,|US| NBC 13 ( Indianapolis )  | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12165.m3u8
-#EXTINF:-1,|US| NBC 17 (Raleigh) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12162.m3u8
-#EXTINF:-1,|US| NBC 2 (Buffalo NY) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12161.m3u8
-#EXTINF:-1,|US| NBC 2 (Buffalo) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12160.m3u8
-#EXTINF:-1,|US| NBC 2 (Houston) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12159.m3u8
-#EXTINF:-1,|US| NBC 2 (Jacksonville) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12158.m3u8
-#EXTINF:-1,|US| NBC 2 (Orlando) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12157.m3u8
-#EXTINF:-1,|US| NBC 26 ( Green Bay ) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12156.m3u8
-#EXTINF:-1,|US| NBC 26 (Green Bay) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12155.m3u8
-#EXTINF:-1,|US| NBC 3 (Cleveland) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12180.m3u8
-#EXTINF:-1,|US| NBC 3 (Jackson MS) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12154.m3u8
-#EXTINF:-1,|US| NBC 30 ( Connecticut ) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12152.m3u8
-#EXTINF:-1,|US| NBC 30 (Hartford) | NEWS ONLY
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12151.m3u8
-#EXTINF:-1,|US| NBC 36 (Charlotte) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12150.m3u8
-#EXTINF:-1,|US| NBC 4  ( Washington DC ) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12149.m3u8
-#EXTINF:-1,|US| NBC 4 ( Milwuakee ) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12148.m3u8
-#EXTINF:-1,|US| NBC 4 ( San Antonio ) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12147.m3u8
-#EXTINF:-1,|US| NBC 4 (Detroit) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12146.m3u8
-#EXTINF:-1,|US| NBC 4 (Nashville)  | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12144.m3u8
-#EXTINF:-1,|US| NBC 4 (New York) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12143.m3u8
-#EXTINF:-1,|US| NBC 4 (Washington DC) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12142.m3u8
-#EXTINF:-1,|US| NBC 41 (Kansas) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12141.m3u8
-#EXTINF:-1,|US| NBC 5 (Chicago) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12140.m3u8
-#EXTINF:-1,|US| NBC 5 (Cincinnati) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12139.m3u8
-#EXTINF:-1,|US| NBC 5 (Dallas) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12179.m3u8
-#EXTINF:-1,|US| NBC 5 (Memphis) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12138.m3u8
-#EXTINF:-1,|US| NBC 5 (Raleigh) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12137.m3u8
-#EXTINF:-1,|US| NBC 5 (Salt Lake City) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12136.m3u8
-#EXTINF:-1,|US| NBC 5 (St. Louis) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12135.m3u8
-#EXTINF:-1,|US| NBC 6 (New Orleans) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12132.m3u8
-#EXTINF:-1,|US| NBC 7 (San Diego) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12131.m3u8
-#EXTINF:-1,|US| NBC 8 (Portland) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12130.m3u8
-#EXTINF:-1,|US| NBC 9 (Denver) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12129.m3u8
-#EXTINF:-1,|US| NBC K5 (Seattle) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12128.m3u8
-#EXTINF:-1,▀▄ USA ▀▄▀▄▀▄  CBC  ▄▀▄▀▄▀
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12221.m3u8
-#EXTINF:-1,|US| CBS (Columbus) HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3087.m3u8
-#EXTINF:-1,|US| CBSN FULL HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3085.m3u8
-#EXTINF:-1,|US| CBS 11 (Dallas) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12127.m3u8
-#EXTINF:-1,|US| CBS 13 (Baltimore)  | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12126.m3u8
-#EXTINF:-1,|US| CBS 2/9 (Los Angeles)  | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12125.m3u8
-#EXTINF:-1,|US| CBS 4 (Miami) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12124.m3u8
-#EXTINF:-1,|US| CBS 46 (Atlanta) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12123.m3u8
-#EXTINF:-1,▀▄ USA ▀▄▀▄▀▄  CINE ▄▀▄▀▄▀
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12235.m3u8
-#EXTINF:-1,|US| GSN FHD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2453.m3u8
-#EXTINF:-1,|US| HALLMARK CHANNEL HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2459.m3u8
-#EXTINF:-1,|US| SHOWTIME (EAST) HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2457.m3u8
-#EXTINF:-1,|US| SHOWTIME (West) | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12186.m3u8
-#EXTINF:-1,|US| Comedy Central HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2479.m3u8
-#EXTINF:-1,|US| BRAVO HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2488.m3u8
-#EXTINF:-1,|US| SUNDANCE HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2454.m3u8
-#EXTINF:-1,|US| ABC (WEST) HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2441.m3u8
-#EXTINF:-1,|US| CW (Central PA) HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2451.m3u8
-#EXTINF:-1,|US| DIY NETWORK HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2458.m3u8
-#EXTINF:-1,|US| EL REY NETWORK HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2461.m3u8
-#EXTINF:-1,|US| AMC HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2477.m3u8
-#EXTINF:-1,|US| HBO (West) HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2469.m3u8
-#EXTINF:-1,|US| HBO COMEDY HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2473.m3u8
-#EXTINF:-1,|US| HBO FAMILY HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2472.m3u8
-#EXTINF:-1,|US| HBO SIGNATURE HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2471.m3u8
-#EXTINF:-1,|US| HBO ZONE HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2470.m3u8
-#EXTINF:-1,|US| HBO East HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3050.m3u8
-#EXTINF:-1,|US| FOX 13 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2474.m3u8
-#EXTINF:-1,|US| FOX 43
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3069.m3u8
-#EXTINF:-1,|US| FX HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2475.m3u8
-#EXTINF:-1,|US| STARZ CINEMA HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2578.m3u8
-#EXTINF:-1,|US| Starz Comedy HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3024.m3u8
-#EXTINF:-1,|US| Starz Edge HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3023.m3u8
-#EXTINF:-1,|US| Starz Encore HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3022.m3u8
-#EXTINF:-1,|US| SYFY HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2579.m3u8
-#EXTINF:-1,|US| TBS HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2580.m3u8
-#EXTINF:-1,|US| TNT HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2610.m3u8
-#EXTINF:-1,|US| TLC HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2456.m3u8
-#EXTINF:-1,|US| GRIT HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2611.m3u8
-#EXTINF:-1,|US| CineMax OuterMax HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3082.m3u8
-#EXTINF:-1,|US| CineMax East HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3081.m3u8
-#EXTINF:-1,|US| Cinemax Thriller HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3080.m3u8
-#EXTINF:-1,|US| CineMax MoreMax HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2585.m3u8
-#EXTINF:-1,|US| LIFETIME MOVIES FHD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2460.m3u8
-#EXTINF:-1,|US| CineMAX Action HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2882.m3u8
-#EXTINF:-1,|US| REELZ FHD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2883.m3u8
-#EXTINF:-1,|US| Fuel HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3053.m3u8
-#EXTINF:-1,|US| IFC HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3048.m3u8
-#EXTINF:-1,|US| SEC Network HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3027.m3u8
-#EXTINF:-1,|US| truTV HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3020.m3u8
-#EXTINF:-1,|US| Univision HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3018.m3u8
-#EXTINF:-1,|US| OXYGEN HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3051.m3u8
-#EXTINF:-1,|US| TELEMUNDO (New York) HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/6043.m3u8
-#EXTINF:-1,|US| New England Cable News Network HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3089.m3u8
-#EXTINF:-1,|US| DW HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3086.m3u8
-#EXTINF:-1,|US| Chiller HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3084.m3u8
-#EXTINF:-1,|US| USA NETWORK HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2581.m3u8
-#EXTINF:-1,▀▄ USA ▀▄▀▄▀▄  BEIN SPORTS ▄▀▄▀▄▀
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12236.m3u8
-#EXTINF:-1,|US| BeIN SPORTS HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2492.m3u8
-#EXTINF:-1,|US| BEIN SPORTS ñ HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12234.m3u8
-#EXTINF:-1,|US| BEIN SPORTS CONNECT 2 HD (LIGA)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12233.m3u8
-#EXTINF:-1,|US| BEIN SPORTS CONNECT 3 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12232.m3u8
-#EXTINF:-1,|US| BEIN SPORTS CONNECT 4 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12231.m3u8
-#EXTINF:-1,|US| BEIN SPORTS CONNECT 5 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12230.m3u8
-#EXTINF:-1,|US| BEIN SPORTS CONNECT 6 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12229.m3u8
-#EXTINF:-1,|US| BEIN SPORTS CONNECT 7 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12228.m3u8
-#EXTINF:-1,|US| BEIN SPORTS CONNECT 8 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12227.m3u8
-#EXTINF:-1,|US| BEIN SPORTS CONNECT 9 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12226.m3u8
-#EXTINF:-1,|US| BEIN SPORTS CONNECT 10 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12225.m3u8
-#EXTINF:-1,▀▄ USA ▀▄▀▄▀▄  SPORTS ▄▀▄▀▄▀
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12222.m3u8
-#EXTINF:-1,|US| WWE NETWORK HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2582.m3u8
-#EXTINF:-1,|US| MLB NETWORK HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2584.m3u8
-#EXTINF:-1,|US| FOX SPORTS SPORTSTIME OHIO HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2443.m3u8
-#EXTINF:-1,|US| SPORTS NETWORK (NY) HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2577.m3u8
-#EXTINF:-1,|US| Sportsnet LA HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3026.m3u8
-#EXTINF:-1,|US| Specturm Sportsnet HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3025.m3u8
-#EXTINF:-1,|US| TENNIS CHANNEL HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18198.m3u8
-#EXTINF:-1,|US| ESPN CLASSIC HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2496.m3u8
-#EXTINF:-1,|US| ESPN U HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2495.m3u8
-#EXTINF:-1,|US| ESPN HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/19107.m3u8
-#EXTINF:-1,|US| ESPN 2 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2493.m3u8
-#EXTINF:-1,|US| ESPN 3 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18199.m3u8
-#EXTINF:-1,|US| FOX SPORTS YES HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/19438.m3u8
-#EXTINF:-1,|US| FOX SPORTS PRIME TICKET HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2497.m3u8
-#EXTINF:-1,|US| FOX SPORTS 1 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2498.m3u8
-#EXTINF:-1,|US| FOX SPORTS 2 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2499.m3u8
-#EXTINF:-1,|US| FOX SOCCER PLUS HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2505.m3u8
-#EXTINF:-1,|US| Fox Deportes HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3068.m3u8
-#EXTINF:-1,|US| Fox Sports Carolina HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3064.m3u8
-#EXTINF:-1,|US| Fox Sports Cincinnati HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3063.m3u8
-#EXTINF:-1,|US| Fox Sports Detroit HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3061.m3u8
-#EXTINF:-1,|US| Fox Sports Florida HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3060.m3u8
-#EXTINF:-1,|US| Fox Sports South HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3055.m3u8
-#EXTINF:-1,|US| NBC GOLF CHANNEL HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2500.m3u8
-#EXTINF:-1,|US| NBC SPORTS NETWORK HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2502.m3u8
-#EXTINF:-1,|US| NBC Golf HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3038.m3u8
-#EXTINF:-1,|US| NFL RedZone HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3036.m3u8
-#EXTINF:-1,|US| NBCSN HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3034.m3u8
-#EXTINF:-1,|US| NFL Now HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3032.m3u8
-#EXTINF:-1,|US| NFL NETWORK HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2448.m3u8
-#EXTINF:-1,|US| NHL NETWORK HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2449.m3u8
-#EXTINF:-1,|US| UFC Fight Pass
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3019.m3u8
-#EXTINF:-1,|US| PAC-12 Arizona HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2506.m3u8
-#EXTINF:-1,|US| PAC-12 Bay Area HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2507.m3u8
-#EXTINF:-1,|US| PAC-12 Los-Angeles HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2508.m3u8
-#EXTINF:-1,|US| PAC-12 Oregon HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2509.m3u8
-#EXTINF:-1,|US| PAC-12 Washington HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2510.m3u8
-#EXTINF:-1,|US| UNIVISION DEPORTES HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2504.m3u8
-#EXTINF:-1,▀▄ USA ▀▄▀▄▀▄  DOC ▄▀▄▀▄▀
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12223.m3u8
-#EXTINF:-1,|US| SPIKE CHANNEL HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2478.m3u8
-#EXTINF:-1,|US| HISTORY HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2480.m3u8
-#EXTINF:-1,|US| NATIONAL GEOGRAPHIC HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2484.m3u8
-#EXTINF:-1,|US| DISCOVERY HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2481.m3u8
-#EXTINF:-1,|US| DISCOVERY SCIENCE HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2483.m3u8
-#EXTINF:-1,|US| INVESTIGATION DISCOVERY (WEST) HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2482.m3u8
-#EXTINF:-1,|US| DISCOVERY VELOCITY FHD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2455.m3u8
-#EXTINF:-1,|US| DESTINATION AMERICA HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/10162.m3u8
-#EXTINF:-1,|US| VICELAND HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2466.m3u8
-#EXTINF:-1,|US| ANIMAL PLANET (EAST) HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2485.m3u8
-#EXTINF:-1,|US| A&E FHD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2468.m3u8
-#EXTINF:-1,|US| World Fish Network HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3072.m3u8
-#EXTINF:-1,|US| Outdoor Channel HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3028.m3u8
-#EXTINF:-1,|US| AMERICAN HERO | HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12184.m3u8
-#EXTINF:-1,|US| HGTV (WEST) HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2452.m3u8
-#EXTINF:-1,|US| Fantasy Network HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3029.m3u8
-#EXTINF:-1,|US| CARTOON NETWORK
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2491.m3u8
-#EXTINF:-1,|US| DISNEY CHANNEL HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2489.m3u8
-#EXTINF:-1,|US| DISNEY XD HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3075.m3u8
-#EXTINF:-1,|US| Boomerang HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3094.m3u8
-#EXTINF:-1,|US| DISNEY JR HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2490.m3u8
-#EXTINF:-1,▀▄ USA ▀▄▀▄▀▄  MUSIC ▄▀▄▀▄▀
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12224.m3u8
-#EXTINF:-1,|US| BET (WEST) HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2487.m3u8
-#EXTINF:-1,|US| E!
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2467.m3u8
-#EXTINF:-1,|US| VH1 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2511.m3u8
-#EXTINF:-1,|US| MTV BASE HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2884.m3u8
-#EXTINF:-1,|US| Music Choice Alternative
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12122.m3u8
-#EXTINF:-1,|US| Music Choice Brits Hits
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12121.m3u8
-#EXTINF:-1,|US| Music Choice Dance/EDM
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12120.m3u8
-#EXTINF:-1,|US| Music Choice HIP HOP & R&B
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12119.m3u8
-#EXTINF:-1,|US| Music Choice Hit List
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12118.m3u8
-#EXTINF:-1,|US| Music Choice Indie
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12117.m3u8
-#EXTINF:-1,|US| Music Choice Metal
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12116.m3u8
-#EXTINF:-1,|US| Music Choice Mexican
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12115.m3u8
-#EXTINF:-1,|US| Music Choice Pop & Country
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12114.m3u8
-#EXTINF:-1,|US| Music Choice Pop Hits
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12113.m3u8
-#EXTINF:-1,|US| Music Choice Rap
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12112.m3u8
-#EXTINF:-1,|US| Music Choice Rap 2K
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12111.m3u8
-#EXTINF:-1,|US| Music Choice Throwback Jamz
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12110.m3u8
-#EXTINF:-1,▀▄ USA ▀▄▀▄▀▄  ESPN PLUS LIVE EVENTS ONLY ▄▀▄▀▄▀
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18133.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  01 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18183.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  02 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18182.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  03 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18181.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  04 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18180.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  05 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18179.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  06 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18178.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  07 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18177.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  08 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18176.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  09 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18175.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  10 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18174.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  11 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18173.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  12 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18172.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  13 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18171.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  14 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18170.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  15 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18169.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  16 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18168.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  17 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18167.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  18 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18166.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  19 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18165.m3u8
-#EXTINF:-1,|US| ESPN PLUS:  20 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18164.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 21 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18163.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 22 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18162.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 23 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18161.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 24 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18160.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 25 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18159.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 26 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18158.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 27 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18157.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 28 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18156.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 29 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18155.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 30 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18154.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 31 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18153.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 32 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18152.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 33 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18151.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 34 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18150.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 35 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18149.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 36 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18148.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 37 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18147.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 38 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18146.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 39 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18145.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 40 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18144.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 41 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18143.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 42 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18142.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 43 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18141.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 44 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18140.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 45 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18139.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 46 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18138.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 47 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18137.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 48 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18136.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 49 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18135.m3u8
-#EXTINF:-1,|US| ESPN PLUS: 50 HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/18134.m3u8
-#EXTINF:-1,▀▄ USA ▀▄▀▄▀▄  LIVE PASS ▄▀▄▀▄▀
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12219.m3u8
-#EXTINF:-1,|US| NBA HD
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/2576.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 1 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3047.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 2 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3046.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 3 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3292.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 4 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3291.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 5 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3290.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 6 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3289.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 7 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3288.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 8 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/3287.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 9 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13263.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 10 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13262.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 11 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13261.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 12 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13260.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 13 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13259.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 14 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13258.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 15 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13257.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 16 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13256.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 17 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13255.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 18 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13254.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 19 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13253.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 20 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13252.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 21 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13296.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 22 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13295.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 23 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13294.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 24 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13293.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 25 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13292.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 26 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13291.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 27 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13290.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 28 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13289.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 29 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13288.m3u8
-#EXTINF:-1,|US| NBA LEAGUE PASS 30 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/13287.m3u8
-#EXTINF:-1,|US| MLB 1 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9651.m3u8
-#EXTINF:-1,|US| MLB 2 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9650.m3u8
-#EXTINF:-1,|US| MLB 3 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9649.m3u8
-#EXTINF:-1,|US| MLB 4 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9648.m3u8
-#EXTINF:-1,|US| MLB 5 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9647.m3u8
-#EXTINF:-1,|US| MLB 6 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9646.m3u8
-#EXTINF:-1,|US| MLB 7 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9645.m3u8
-#EXTINF:-1,|US| MLB 8 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9644.m3u8
-#EXTINF:-1,|US| MLB 9 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9643.m3u8
-#EXTINF:-1,|US| MLB 10 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9642.m3u8
-#EXTINF:-1,|US| MLB 11 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9641.m3u8
-#EXTINF:-1,|US| MLB 12 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9640.m3u8
-#EXTINF:-1,|US| MLB 13 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9639.m3u8
-#EXTINF:-1,|US| MLB 14 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9638.m3u8
-#EXTINF:-1,|US| MLB 15 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9637.m3u8
-#EXTINF:-1,|US| NFL 1 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9636.m3u8
-#EXTINF:-1,|US| NFL 2 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9635.m3u8
-#EXTINF:-1,|US| NFL 3 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9634.m3u8
-#EXTINF:-1,|US| NFL 4 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9633.m3u8
-#EXTINF:-1,|US| NFL 5 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9632.m3u8
-#EXTINF:-1,|US| NFL 6 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9631.m3u8
-#EXTINF:-1,|US| NFL 7 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9630.m3u8
-#EXTINF:-1,|US| NFL 8 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9629.m3u8
-#EXTINF:-1,|US| NFL 9 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9628.m3u8
-#EXTINF:-1,|US| NFL 10 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9627.m3u8
-#EXTINF:-1,|US| NFL 11 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9626.m3u8
-#EXTINF:-1,|US| NFL 12 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9625.m3u8
-#EXTINF:-1,|US| NFL 13 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9624.m3u8
-#EXTINF:-1,|US| NFL 14 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9623.m3u8
-#EXTINF:-1,|US| NFL 15 (Live Game Only)
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/9622.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 1 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12218.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 2 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12217.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 3 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12216.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 4 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12215.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 5 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12214.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 6 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12213.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 7 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12212.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 8 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12211.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 9 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12210.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 10 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12209.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 11 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12208.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 12 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12207.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 13 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12206.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 14 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12205.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 15 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12204.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 16 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12203.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 17 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12202.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 18 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12201.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 19 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12200.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 20 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12199.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 21 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12198.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 22 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12197.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 23 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12196.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 24 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12195.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 25 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12194.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 26 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12193.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 27 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12192.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 29 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12191.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 30 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12190.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 31 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12189.m3u8
-#EXTINF:-1,|US| NHL LIVE PASS 32 HD [ Match Time Only ]
-http://king365-tv.com:2103/live/dyRmOS6Zso/4UZxo2kidx/12188.m3u8
-#EXTINF:-1,US1============== USA CINEMA    ==============
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74166.m3u8
-#EXTINF:-1,US1: AFN MOVIE
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74162.m3u8
-#EXTINF:-1,US1: AFN PRIME ATLANTIC
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74161.m3u8
-#EXTINF:-1,US1: AFN SPECTRUM
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74160.m3u8
-#EXTINF:-1,US1: AMC HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74156.m3u8
-#EXTINF:-1,US1: Bein Sports US1A HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74147.m3u8
-#EXTINF:-1,US1: Cinemax 5 StarMax
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74159.m3u8
-#EXTINF:-1,US1: Cinemax ActionMax East
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74158.m3u8
-#EXTINF:-1,US1: Cinemax East
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74157.m3u8
-#EXTINF:-1,US1: Cinemax East HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74165.m3u8
-#EXTINF:-1,US1: Cinemax MoreMax
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74164.m3u8
-#EXTINF:-1,US1: Comedy Central HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74148.m3u8
-#EXTINF:-1,US1: GRIT TV Movies
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74155.m3u8
-#EXTINF:-1,US1: HBO HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74163.m3u8
-#EXTINF:-1,US1: Showtime 2
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74154.m3u8
-#EXTINF:-1,US1: Showtime HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74153.m3u8
-#EXTINF:-1,US1: Showtime West
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74152.m3u8
-#EXTINF:-1,US1: Starz Cinema
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74151.m3u8
-#EXTINF:-1,US1: Starz Comedy
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74150.m3u8
-#EXTINF:-1,US1: STARZ EDGE HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74146.m3u8
-#EXTINF:-1,US1: Starz Encore
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74149.m3u8
-#EXTINF:-1,US1: Syfy HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74145.m3u8
-#EXTINF:-1,US2==============  USA ENTERTAINMENT  ==============
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74144.m3u8
-#EXTINF:-1,US2 : Fox HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74142.m3u8
-#EXTINF:-1,US2: FX HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74143.m3u8
-#EXTINF:-1,US2: HBO Comedy
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74141.m3u8
-#EXTINF:-1,US2: HBO East
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74140.m3u8
-#EXTINF:-1,US2: HBO Signature
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74139.m3u8
-#EXTINF:-1,US2: HBO Zone
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74138.m3u8
-#EXTINF:-1,US2: US2A Network HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74137.m3u8
-#EXTINF:-1,US3==============  US2A SPORT ==============
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74136.m3u8
-#EXTINF:-1,US3: AFN PRIME PACIFIC
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74128.m3u8
-#EXTINF:-1,US3: CA | TSN 1*
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74127.m3u8
-#EXTINF:-1,US3: CA | TSN 2
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74126.m3u8
-#EXTINF:-1,US3: CA | TSN 3*
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74125.m3u8
-#EXTINF:-1,US3: CA | TSN 4 HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74124.m3u8
-#EXTINF:-1,US3: CA | TSN 5*
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74123.m3u8
-#EXTINF:-1,US3: Fox 43
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74131.m3u8
-#EXTINF:-1,US3: Fox Sports 1 HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74133.m3u8
-#EXTINF:-1,US3: Fox Sports 2 HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74132.m3u8
-#EXTINF:-1,US3: Fox Sports 506 HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74130.m3u8
-#EXTINF:-1,US3: NBA TV HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74134.m3u8
-#EXTINF:-1,US3: NFL Network HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74121.m3u8
-#EXTINF:-1,US3: PAC-12 Arizona
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74120.m3u8
-#EXTINF:-1,US3: PAC-12 Bay Area
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74119.m3u8
-#EXTINF:-1,US3: PAC-12 Los Angeles
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74118.m3u8
-#EXTINF:-1,US3: PAC-12 Oregon
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74117.m3u8
-#EXTINF:-1,US3: PAC-12 Washington
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74116.m3u8
-#EXTINF:-1,US3: Tennis Channel HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74115.m3u8
-#EXTINF:-1,US3: Tnt HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74135.m3u8
-#EXTINF:-1,US3: WWE HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74122.m3u8
-#EXTINF:-1,US3:Sports-Net
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74129.m3u8
-#EXTINF:-1,US4==============   USA KIDS  ==============
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74114.m3u8
-#EXTINF:-1,US4 : NFL REDZONE SD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74109.m3u8
-#EXTINF:-1,US4: CARTOON NETWORK
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74112.m3u8
-#EXTINF:-1,US4: Food Network HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74110.m3u8
-#EXTINF:-1,US4: NICKELODEN HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74108.m3u8
-#EXTINF:-1,US4: Nickelodeon HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74113.m3u8
-#EXTINF:-1,US4: Nursery Rhymes (Baby Songs)
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74106.m3u8
-#EXTINF:-1,US4: Smile Of A Child
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74107.m3u8
-#EXTINF:-1,US4: Toon Kids
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74111.m3u8
-#EXTINF:-1,US5============== USA DOCUMENTARY  ==============
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74105.m3u8
-#EXTINF:-1,US5: Amazing Discoveries HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74101.m3u8
-#EXTINF:-1,US5: Discovery HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74102.m3u8
-#EXTINF:-1,US5: Discovery Science HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74104.m3u8
-#EXTINF:-1,US5: Fine Living
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74096.m3u8
-#EXTINF:-1,US5: History HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74100.m3u8
-#EXTINF:-1,US5: Investigation Discovery
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74099.m3u8
-#EXTINF:-1,US5: National Geographic
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74103.m3u8
-#EXTINF:-1,US5: Outdoor Channel HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74095.m3u8
-#EXTINF:-1,US5: Tbs HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74097.m3u8
-#EXTINF:-1,US6=======   USA NEWS  =======
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74094.m3u8
-#EXTINF:-1,US6: ABC NEWS HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74086.m3u8
-#EXTINF:-1,US6: CBS
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74090.m3u8
-#EXTINF:-1,US6: CBSN HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74085.m3u8
-#EXTINF:-1,US6: CNBC
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74092.m3u8
-#EXTINF:-1,US6: CNN HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74084.m3u8
-#EXTINF:-1,US6: CNN HD *
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74093.m3u8
-#EXTINF:-1,US6: Fox News
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74091.m3u8
-#EXTINF:-1,US6: FOX NEWS HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74083.m3u8
-#EXTINF:-1,US6: MSNBC HD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74089.m3u8
-#EXTINF:-1,US6: NBC
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74088.m3u8
-#EXTINF:-1,US6: NBCSNHD
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74087.m3u8
-#EXTINF:-1,US6: NHL
-http://iptvtool.es:9977/live/CLIENTE_144_RAFAEL/BugUleHXrL/74082.m3u8
